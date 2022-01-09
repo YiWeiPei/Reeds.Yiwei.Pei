@@ -52,10 +52,10 @@ footer-links:
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: guanghan0613@gmail.com #youremailaddress@mail.com
+  email:  #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: Reeds.Yiwei.Pei #https://github.com/<>
+  github: YiWeiPei #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -64,7 +64,6 @@ footer-links:
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
-  element: ywpei_unlars:matrix.org #element测试是否有效
 
 # 站点页脚的文字
 footer-text: A Pei Yiwei Present. All Right Reserved
