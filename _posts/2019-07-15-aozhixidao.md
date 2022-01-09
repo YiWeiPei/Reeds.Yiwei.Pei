@@ -4,7 +4,7 @@ title: 奥之细道
 date: 2019-07-15
 author: 松尾芭蕉，Reeds丨译
 tags: [见贤思齐, 兴怀致一]
-pinned: true
+toc: true
 
 ---
 
