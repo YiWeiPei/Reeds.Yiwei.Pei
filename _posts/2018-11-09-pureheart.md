@@ -6,4 +6,4 @@ author: Reeds
 tags: [吉光片羽]
 ---
 
- ![](https://raw.githubusercontent.com/YiWeiPei/Reeds.Yiwei.Pei/master/images/%E6%AD%A4%E5%BF%83%E5%85%89%E6%98%8E.jpg)
+![此心光明.jpg](https://s2.loli.net/2022/01/10/yaKnX3lsde5WjrI.jpg)
