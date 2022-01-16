@@ -3,7 +3,7 @@ layout: post
 title: The Course of Empire
 date: 2012-11-01
 author: Thomas Cole
-tags: [吉光片羽]
+tags: [吉光片羽, 见贤思齐]
 ---
 
   Thomas Cole在1833–1836创作的的*The Course of Empire*系列油画作品。Cole被认为是哈德逊河派的创始人，作品富有浪漫主义风格，细致而写实。
