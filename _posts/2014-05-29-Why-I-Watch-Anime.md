@@ -11,6 +11,6 @@ Anime like Clannad After Story give a sacred radiance to a kind of warmth. They 
 
 A warmth that people, perhaps rightfully, deride as unrealistic. That real people do not subscribe to, do not believe in, thus deepening the rift between the vision of warmth and the coldness of reality. And this in its turn, accentuating, justifying, the derision of that warmth. **All lies.**
 
-But I believe in that lie.
+**But I believe in that lie.**
 
 So I watch anime.
