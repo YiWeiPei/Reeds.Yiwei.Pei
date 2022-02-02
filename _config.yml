@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 第三种声音
-description: 藏器于身，待时而动。
+description: 接引春雷焚身骨，化灰以养万类荣
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -34,12 +34,12 @@ favicon: https://raw.githubusercontent.com/YiWeiPei/Reeds.Yiwei.Pei/master/image
 navigation:
   - name: 首页
     url: /
-  - name: 关于
-    url: /about
   - name: 总目
     url: /archive
   - name: 标签
     url: /tags
+  - name: 关于
+    url: /about
 
 # 每页的文章数
 paginate: 11
@@ -49,7 +49,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo:  #请输入你的微博个性域名 https://www.weibo.com/u/1904789157
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email:  #youremailaddress@mail.com
