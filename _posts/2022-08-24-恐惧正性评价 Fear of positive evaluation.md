@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fear of positive evaluation 恐惧正性评价
+title: 恐惧正性评价 Fear of positive evaluation
 date: 2022-08-24
 author: Reeds
 tags: [上下求索]
